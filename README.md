@@ -1,6 +1,6 @@
 # Customer Sign-Up Behaviour & Data Quality Audit
 
-Project for: uptrail  
+Project for: uptrail.co.uk
 Analyst: Mehran Nazari Fazel  
 Date: November 202
 
